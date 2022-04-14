@@ -1,12 +1,12 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import Images from '../examples/Images'
 
-export default function Home () {
+const Recipes = () => {
   return (
     <Layout>
-      <h1>Home</h1>
-      <Images />
+      <div>Recipe</div>
     </Layout>
   )
 }
+
+export default Recipes
