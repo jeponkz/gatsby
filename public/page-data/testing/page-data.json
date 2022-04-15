@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-testing-js",
+    "path": "/testing/",
+    "result": {"data":{"site":{"info":{"author":"@jeffreybugahod","complexData":[{"age":32,"name":"john"},{"age":21,"name":"susan"}],"description":"Nice and clean recipes site","person":{"name":"john","age":32},"simpleData":["item 1","item 2"],"title":"Simply Recipes"}}},"pageContext":{}},
+    "staticQueryHashes": []}

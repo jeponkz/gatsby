@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-404-js-e06aca4c424813e71e88.js","mappings":"iKAMA,UAJkB,WAChB,OAAO","sources":["webpack://gatsby-starter-hello-world/./src/pages/404.js"],"sourcesContent":["import React from \"react\"\n\nconst ErrorPage = () => {\n  return <div>ErrorPage</div>\n}\n\nexport default ErrorPage\n"],"names":[],"sourceRoot":""}
